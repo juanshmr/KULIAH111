@@ -34,5 +34,5 @@ Output yang ditampilkan:
 
 2. Clone repository atau download source code program ini.  
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/juanshmr/KULIAH111.git
+   cd KULIAH111
